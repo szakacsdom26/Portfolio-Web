@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Dominik Szakacs - Cybersecurity Student</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <div class="container">
+            <h1>Dominik Szakacs</h1>
+            <p>Cybersecurity Student at BSDC</p>
+        </div>
+    </header>
+
+    <!-- About Me Section -->
+    <section id="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>Hi! I'm Dominik, a passionate cybersecurity student at BSDC. I specialize in network security, ethical hacking, and security audits. My goal is to contribute to the cybersecurity field by identifying and resolving vulnerabilities to keep systems secure.</p>
+            <p>When I'm not studying, I enjoy working on personal projects, learning about emerging technologies, and staying up-to-date with the latest trends in cybersecurity.</p>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects">
+        <div class="container">
+            <h2>Projects</h2>
+            <ul>
+                <li>
+                    <h3>Project 1: Penetration Testing on Local Network</h3>
+                    <p>Description: I conducted a security assessment of a local network to identify vulnerabilities and potential exploits.</p>
+                    <a href="https://github.com/dominik-szakacs/project-1" target="_blank">View on GitHub</a>
+                </li>
+                <li>
+                    <h3>Project 2: Web Application Security Audit</h3>
+                    <p>Description: I performed a full security audit of a web application, focusing on SQL injection, XSS, and session management vulnerabilities.</p>
+                    <a href="https://github.com/dominik-szakacs/project-2" target="_blank">View on GitHub</a>
+                </li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <div class="container">
+            <h2>Contact</h2>
+            <p>Feel free to get in touch with me!</p>
+            <ul>
+                <li>Email: <a href="mailto:dominik.szakacs@example.com">dominik.szakacs@example.com</a></li>
+                <li>LinkedIn: <a href="https://linkedin.com/in/dominik-szakacs" target="_blank">linkedin.com/in/dominik-szakacs</a></li>
+                <li>GitHub: <a href="https://github.com/dominik-szakacs" target="_blank">github.com/dominik-szakacs</a></li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 Dominik Szakacs. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
